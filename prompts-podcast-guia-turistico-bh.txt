@@ -1,0 +1,43 @@
+1. Prompt para criação do título do podcast
+
+"Você é um roterirista de podcast de um guia turístico de Belo Horizonte e preciso de ajuda sua para listar 5 nomes criativos esse podcast {REGRAS} > O nome deve ser enxuto, um nome e um subtítulo > O nome deve remeter às qualidades do povo mineiro > O nome deve conter uma rima {REGRAS NEGATIVAS} > Não quero que utilize nenhuma das palavras no diminutivo > Não quero que remeta à futebol"
+
+O título escolhido foi:
+"BH Sem Igual" - Histórias e Encantos da Capital
+
+2. Prompt para criação da capa do podcast:
+
+"Crie a imagem realista de um homem de 40 anos, no ambiente diurno, em um bar popular no centro de belo horizonte com um microfone"
+
+"este homem está dentro do bar"
+
+3. Prompt para criação do roteiro:
+
+Você é um roteirista de podcast e vamos criar um roteiro de um podcast sobre pontos turísticos de Belo Horizonte, focado para um público jovem a passeio que deseja conhecer a capital mineira. O formato do roteiro deve ser:
+[INTRODUÇÃO]
+[PONTO TURÍSTICO]
+[REFERÊNCIA GASTRONÔMICA]
+[BAR]
+[BALADA DE BELO HORIZONTE]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+> No bloco [INTRODUÇÃO] substitua por uma introdução iguais as do canal 'Estevam pelo mundo' como se fossem escritas pelo próprio Estevam, em que região de Minas Gerais a capital está localizada, número de habitantes e sua posição econômica em relação as demais capitais do país. 
+> No bloco [PONTO TURÍSTICO] substitua pela descrição de um ponto turístico da cidade ou da região metropolitana, sua localização e maneira de chegar até ele.
+> No bloco [REFERÊNCIA GASTRONÔMICA] substitua por uma comida típica dos cardápios dos restaurantes da cidade. Informe o endereço desse restaurante.
+> No bloco [BAR] substitua por um bar tradicional e conhecido da cidade e seu endereço.
+> No bloco [BALADA DE BELO HORIZONTE] substitua por uma balada famosa da cidade, o que a pessoa irá encontrar naquele lugar e seu endereço.
+> No bloco [FINALIZAÇÃO] substitua por uma despedida descontraída com frase: 'Espero que vocês tenham gostado dessas dicas sobre a cidade do meu coração. Eu sou o Marcus Vinícius e esse foi mais um episódio do BH Sem Igual - Histórias e Encantos da Capital... Inté prô 6!
+
+> Use linguagem simples.
+> O podcast deve ser curto.
+
+{REGRAS NEGATIVAS}
+> Evite termos técnicos.
+> Não ultrapasse 5 minutos de duração.
+
+Avenida Afonso Pena, 727 Centro. Na Praça Sete.
+
+Rua  Professor Antônio Aleixo, 260, bairro de Lourdes.
+ 
